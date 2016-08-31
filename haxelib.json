@@ -1,0 +1,12 @@
+{
+  "name": "filesystemhelper",
+  "url" : "https://github.com/wolfhoundgelert/filesystemhelper",
+  "license": "LGPL",
+  "tags": ["filesystem", "helper", "file", "directory", "dir", "delete", "remove", "rm", "rmdir"],
+  "description": "FileSystem utility, e.g. for remove directory with content (FileSystem.deleteDirectory can't delete not empty directory).",
+  "version": "1.0.0",
+  "classPath": "",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["gelert"],
+  "dependencies": {}
+}
